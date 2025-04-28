@@ -27,13 +27,4 @@ Acredito que a prática e a persistência são os caminhos para a excelência!
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-@fabiojun_fj-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/fabiojun_fj)
 
----
 
-### 🚀 Estatísticas GitHub:
-<div align="center">
-  <a href="https://github.com/fabioX69">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioX69&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioX69&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
