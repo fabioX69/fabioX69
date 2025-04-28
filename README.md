@@ -1,7 +1,7 @@
 # Olá, Eu sou o Fabio Santos Louzada Junior! 👋
 
 🎯 Estudante de programação e tecnologia!  
-🚀 Atualmente estudando: **Java**, **Python**, **HTML**, **CSS** e **C++**.
+🚀 Atualmente Cursando Ciências da Computação!
 
 ---
 
@@ -32,8 +32,8 @@ Acredito que a prática e a persistência são os caminhos para a excelência!
 ### 🚀 Estatísticas GitHub:
 <div align="center">
   <a href="https://github.com/fabioX69">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?fabioX69&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?fabioX69&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioX69&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioX69&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
