@@ -25,13 +25,13 @@ Acredito que a prática e a persistência são os caminhos para a excelência!
 ### 📫 Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-fabiobr876@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:fabiobr876@gmail.com)
 <br>
-[![Instagram](https://img.shields.io/badge/Instagram-@SEU_INSTAGRAM-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-@fabiojun_fj-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/fabiojun_fj)
 
 ---
 
 ### 🚀 Estatísticas GitHub:
 <div align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/fabioX69">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=radical"/>
 </div>
