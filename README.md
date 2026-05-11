@@ -5,16 +5,7 @@
 
 ---
 
-### 📚 Sobre mim:
-Sou Fabio Santos Louzada Junior, um entusiasta da tecnologia e do desenvolvimento de software.
-Minha jornada na programação é movida pela paixão de criar soluções inovadoras e impactantes.
 
-🔍 Gosto de aprender explorando, praticando e aplicando o que estudo no dia a dia.
-💡 Acredito que a combinação de dedicação, criatividade e persistência transforma sonhos em conquistas reais.
-
-"A programação não é apenas escrever código, é criar soluções para o mundo."
-
----
 
 ### 🛠️ Tecnologias que estou estudando:
 <div style="display: inline_block"><br/>
